@@ -1,0 +1,7 @@
+name: test
+version: 0.1
+main: fr.hugo.Main
+commands:
+    rpotion:
+        usage: /<command>
+        description: Donne une potion aleatoire
